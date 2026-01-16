@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm JIYA JAGRITI:
 🔭 I’m currently working on: Building full-stack web applications using React, Node.js, and MongoDB.<br><br>👯 I’m looking to collaborate on: Real-world web projects, open-source contributions, and frontend-heavy applications.<br><br>🤝 I’m looking for help with: Improving backend scalability and writing cleaner system-level code.<br><br>🌱 I’m currently learning: Advanced React patterns, system design basics, and cloud fundamentals.<br><br>💬 Ask me about: React.js, Tailwind CSS, frontend architecture, and project workflows.<br><br>⚡ Fun fact: I enjoy breaking complex problems into simple, structured solutions.
 
 
